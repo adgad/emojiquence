@@ -128,6 +128,12 @@
     els.refresh.addEventListener('click', startGame);
     els.start.addEventListener('click', startGame);
 
+    if (performance.mark !== undefined) {
+      // Create the performance mark
+      performance.mark('inited');
+    }
+
+
 
   }
   init();
