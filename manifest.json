@@ -22,7 +22,7 @@
       "sizes": "256x256",
       "type": "image/png"
     }],
-  "start_url": "",
+  "start_url": "/emojiquence/index.html?homescreen=1",
   "display": "standalone",
   "background_color": "#e91e63",
   "theme_color": "#673ab7"
