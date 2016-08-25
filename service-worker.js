@@ -1,11 +1,11 @@
 var dataCacheName = 'emojimon-recall-v1';
 var cacheName = 'recall-1';
 var filesToCache = [
-  '/',
-  '/index.html',
-  '/scripts/app.js',
-  '/images/ic_refresh_white_24px.svg',
-  '/images/icons/icon-192x192.png'
+  '',
+  'index.html',
+  'scripts/app.js',
+  'images/ic_refresh_white_24px.svg',
+  'images/icons/icon-192x192.png'
 ];
 
 self.addEventListener('install', function(e) {
